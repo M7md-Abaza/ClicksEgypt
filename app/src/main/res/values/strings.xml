@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ClicksEgyptTask</string>
+    <string name="search">Search</string>
+    <string name="title">mohamed ahmed abaza</string>
+    <string name="via_al_ahli">Via Al-Ahli</string>
+    <string name="no_internet">No Internet Connection</string>
+</resources>
